@@ -1,7 +1,7 @@
 ## Hi there, I'm Ayushman Raghav👋
 
 
-**I'm a full stack developer, Technology entusiast, Music buff, and a Flautist.**
+**I'm a full stack developer, Technology enthusiast, Music buff, and a Flautist.**
 <!--
 Here are some ideas to get you started:
 -->
